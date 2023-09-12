@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "moduleResolution": "NodeNext",
+        "esModuleInterop": true,
+        "target": "ESNext",
+        "noUncheckedIndexedAccess": true,
+        "skipLibCheck": true
+    }
+}
